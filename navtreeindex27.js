@@ -1,5 +1,7 @@
 var NAVTREEINDEX27 =
 {
+"controlflow.html#ui--other-2d-screen-data":[1,2,4,5],
+"controller_8h.html":[18,0,3,9,35],
 "controller_8h.html#a0a241eefe53675f2e6ffa9907dfdeb78":[18,0,3,9,35,25],
 "controller_8h.html#a0b48b5daa3f9a82a8da6c0254b7358d6":[18,0,3,9,35,32],
 "controller_8h.html#a0f7db56e72f44b8a2e596b0e8a702866":[18,0,3,9,35,55],
@@ -247,7 +249,5 @@ var NAVTREEINDEX27 =
 "course__offsets_8h.html#a69fdcd90fa9c81cde4e9e1c34165dc51":[18,0,2,9,18],
 "course__offsets_8h.html#a79b7557b1aefd26666859103e071c88f":[18,0,2,9,20],
 "course__offsets_8h.html#a84ac1d7d6263c01d860b822284bb11b5":[18,0,2,9,16],
-"course__offsets_8h.html#a8e0321808d46864840ea6b2a37f14ed9":[18,0,2,9,1],
-"course__offsets_8h.html#a988be3198ec4dc277ed8c95a0b7130b2":[18,0,2,9,6],
-"course__offsets_8h.html#a9b4ac208462af505a16217f21b4c0433":[18,0,2,9,19]
+"course__offsets_8h.html#a8e0321808d46864840ea6b2a37f14ed9":[18,0,2,9,1]
 };

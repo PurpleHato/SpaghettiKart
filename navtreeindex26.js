@@ -1,5 +1,7 @@
 var NAVTREEINDEX26 =
 {
+"code__800AF9B0_8c.html#adfa304c28966a1ad52f7f7ec580d5498":[18,0,3,32,5],
+"code__800AF9B0_8c.html#ae2e9efe7c7a6e87d17392e3229959237":[18,0,3,32,7],
 "code__800AF9B0_8h.html":[18,0,3,33],
 "code__800AF9B0_8h.html#a7963c15bc1960ff122a3f86b9e114872":[18,0,3,33,1],
 "code__800AF9B0_8h.html#aa14849d67fb7d26d11f85ac19898ac7f":[18,0,3,33,0],
@@ -207,10 +209,10 @@ var NAVTREEINDEX26 =
 "compiling.html#build-instructions":[1,0,0],
 "compiling.html#building-eu":[1,0,6],
 "compiling.html#building-us":[1,0,5],
-"compiling.html#docker-1":[1,0,4],
-"compiling.html#linux-1":[1,0,1],
-"compiling.html#macos-1":[1,0,3],
-"compiling.html#windows-1":[1,0,2],
+"compiling.html#docker":[1,0,4],
+"compiling.html#linux":[1,0,1],
+"compiling.html#macos":[1,0,3],
+"compiling.html#windows":[1,0,2],
 "concepts.html":[1,1],
 "concepts.html#addresses":[1,1,0],
 "concepts.html#array-overflows":[1,1,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX26 =
 "controlflow.html#paradigm":[1,2,0],
 "controlflow.html#players":[1,2,4,1],
 "controlflow.html#segments":[1,2,3],
-"controlflow.html#threading":[1,2,1],
-"controlflow.html#ui--other-2d-screen-data":[1,2,4,5],
-"controller_8h.html":[18,0,3,9,35]
+"controlflow.html#threading":[1,2,1]
 };

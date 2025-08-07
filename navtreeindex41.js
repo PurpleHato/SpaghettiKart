@@ -1,5 +1,7 @@
 var NAVTREEINDEX41 =
 {
+"math__util_8h.html#acb7bf16d18c56f9542125ea045a0ea2a":[18,0,3,11,9,22],
+"math__util_8h.html#acfdc15af4b0c64cb3bba6b4f55be9f2d":[18,0,3,11,9,39],
 "math__util_8h.html#ad1dc0e2bf6b7e49b4407bac9ae7bd965":[18,0,3,11,9,18],
 "math__util_8h.html#ad37b23f880217cf3539106339a99679d":[18,0,3,11,9,26],
 "math__util_8h.html#ad41bc953b17168c852f5240afb82ba50":[18,0,3,11,9,27],
@@ -239,7 +241,7 @@ var NAVTREEINDEX41 =
 "md_docs_2BUILDING.html#additional-cmake-targets":[2,0,2],
 "md_docs_2BUILDING.html#additional-cmake-targets-1":[2,1,4],
 "md_docs_2BUILDING.html#additional-cmake-targets-2":[2,2,1],
-"md_docs_2BUILDING.html#arch":[2,1,1,0,1],
+"md_docs_2BUILDING.html#arch-1":[2,1,1,0,1],
 "md_docs_2BUILDING.html#build":[2,1,1,1],
 "md_docs_2BUILDING.html#clean":[2,0,2,0],
 "md_docs_2BUILDING.html#clean-1":[2,1,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX41 =
 "md_docs_2BUILDING.html#clone-the-repo-and-enter-the-directory":[2,1,0],
 "md_docs_2BUILDING.html#compile-the-project":[2,1,2,2],
 "md_docs_2BUILDING.html#configure-the-project":[2,1,2,1],
-"md_docs_2BUILDING.html#create-the-docker-container":[2,1,2,0],
-"md_docs_2BUILDING.html#debianubuntu":[2,1,1,0,0],
-"md_docs_2BUILDING.html#developing-spaghettikart":[2,0,0]
+"md_docs_2BUILDING.html#create-the-docker-container":[2,1,2,0]
 };
