@@ -1,5 +1,8 @@
 var NAVTREEINDEX78 =
 {
+"structSF64_1_1ColPolyData.html#adf743dd078f835e2a9a2568314dea000":[17,0,4,3,0],
+"structSF64_1_1EnvSettingsData.html":[16,0,8,5],
+"structSF64_1_1EnvSettingsData.html":[17,0,4,5],
 "structSF64_1_1EnvSettingsData.html#a03280a97c40234b2c9f5747cb5c776c5":[16,0,8,5,12],
 "structSF64_1_1EnvSettingsData.html#a03280a97c40234b2c9f5747cb5c776c5":[17,0,4,5,12],
 "structSF64_1_1EnvSettingsData.html#a0354c2095d19c6339021339d29026bc2":[16,0,8,5,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX78 =
 "structSequenceChannelLayer.html#a2e51657f9ef02ed9f86e46b77c74ac28":[17,0,394,30],
 "structSequenceChannelLayer.html#a3c8e8a36751dc46485093dd4bdf76340":[17,0,394,26],
 "structSequenceChannelLayer.html#a470a0d39003ffc73f5bb544502346a19":[17,0,394,7],
-"structSequenceChannelLayer.html#a4a28c81971275941752cfa6a38a40c2d":[17,0,394,16],
-"structSequenceChannelLayer.html#a6415e8110ff2e49409edbf2b558931a4":[17,0,394,18],
-"structSequenceChannelLayer.html#a6dcb42a5380d4d9f55354d1d0b83a09a":[17,0,394,11],
-"structSequenceChannelLayer.html#a71338acfabb0187a367d65fe55d5b64e":[17,0,394,12]
+"structSequenceChannelLayer.html#a4a28c81971275941752cfa6a38a40c2d":[17,0,394,16]
 };

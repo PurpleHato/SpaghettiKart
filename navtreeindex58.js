@@ -1,5 +1,8 @@
 var NAVTREEINDEX58 =
 {
+"osEepromLongRead_8c.html#a15b2683c35d6e8cd622bbae66211ba9e":[18,0,3,9,68,4],
+"osEepromLongRead_8c.html#a4b90d060d35a3fd4f1dce21b68a98789":[18,0,3,9,68,1],
+"osEepromLongRead_8c.html#a6765ae238051e57f0d3ac6567a8e0db9":[18,0,3,9,68,5],
 "osEepromLongRead_8c.html#a9d2c6b666a1a317e841b46a6eee01123":[18,0,3,9,68,2],
 "osEepromLongRead_8c.html#ab58627f83d7b5069c7d442eb1c05f014":[18,0,3,9,68,3],
 "osEepromLongRead_8c.html#abcb609bd10840081d17bce1000620d8e":[18,0,3,9,68,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX58 =
 "paddle__boat_2render_8inc_8c.html":[18,0,3,0,11,0],
 "paddle__boat_2render_8inc_8c.html#aae368eda51ea5ff8f7f1c30980c968d0":[18,0,3,0,11,0,0],
 "paddle__boat_2render_8inc_8c_source.html":[18,0,3,0,11,0],
-"paddle__boat_2update_8inc_8c.html":[18,0,3,0,11,1],
-"paddle__boat_2update_8inc_8c.html#ab0013f066707ccff446faf9e15593840":[18,0,3,0,11,1,0],
-"paddle__boat_2update_8inc_8c_source.html":[18,0,3,0,11,1],
-"pages.html":[]
+"paddle__boat_2update_8inc_8c.html":[18,0,3,0,11,1]
 };

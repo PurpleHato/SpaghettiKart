@@ -1,5 +1,8 @@
 var NAVTREEINDEX81 =
 {
+"structUnkPlayerStruct258.html#ad8c454352c519c179c4c24eb34fc478e":[17,0,468,13],
+"structUnkPlayerStruct258.html#af7d27efc8971f5631dfbeb69c5514afb":[17,0,468,3],
+"structUnkPool.html":[17,0,469],
 "structUnkPool.html#a54e0b9a13c0b02bbd2dd4cbe4c539bfb":[17,0,469,1],
 "structUnkPool.html#ab3cfce0714280493c920b0d583e1943c":[17,0,469,0],
 "structUnkPool.html#ae09f5a40fa70785e43743f4d447ed669":[17,0,469,2],
@@ -212,13 +215,15 @@ var NAVTREEINDEX81 =
 "structWidgetPath.html#ab953da1f493fd3c8841a1f852772c58c":[17,0,493,1],
 "structWidgetPath.html#af920d3bfe644722dd771b5ab3b76cf8a":[17,0,493,0],
 "structWorld_1_1Matrix.html":[17,0,494,0],
-"structWorld_1_1Matrix.html#a2a82bf94afc98626ba403988aa530730":[17,0,494,0,0],
-"structWorld_1_1Matrix.html#a9d9d449b81e4cec86aa3c7d865a92366":[17,0,494,0,6],
-"structWorld_1_1Matrix.html#a9e160bd02384446d47ada02f4968ca30":[17,0,494,0,2],
-"structWorld_1_1Matrix.html#a9ffe24e9a3a0b5365aa5fcf5287d9619":[17,0,494,0,4],
-"structWorld_1_1Matrix.html#aa85085e44ed6943d9089b1834f9d07d0":[17,0,494,0,1],
-"structWorld_1_1Matrix.html#aaa42d181ad649e95b534341ad758b806":[17,0,494,0,3],
-"structWorld_1_1Matrix.html#aeb053850eb1618205a58831ef26ddc7b":[17,0,494,0,5],
+"structWorld_1_1Matrix.html#a168be47f1839dca2342b99cd10a5dda3":[17,0,494,0,4],
+"structWorld_1_1Matrix.html#a8eafdcf50908d5b72d647c2eea6b8775":[17,0,494,0,5],
+"structWorld_1_1Matrix.html#a9fd757abd02261f0c5ee2d7215038959":[17,0,494,0,1],
+"structWorld_1_1Matrix.html#ab8a87da299bcf104e50878722aaebab0":[17,0,494,0,0],
+"structWorld_1_1Matrix.html#abfa483739dc61bfa7e520c6158f252d5":[17,0,494,0,2],
+"structWorld_1_1Matrix.html#ac564de0494834eede93bc7e78c9d4b9b":[17,0,494,0,6],
+"structWorld_1_1Matrix.html#aca856f4c3a0b83759e505002713950cb":[17,0,494,0,8],
+"structWorld_1_1Matrix.html#ad50841597d3aa45a01956dffb8042d8b":[17,0,494,0,3],
+"structWorld_1_1Matrix.html#af4e951a1641dbac5195bd79d6a532473":[17,0,494,0,7],
 "structYVFlagPoleSpawn.html":[17,0,497],
 "structYVFlagPoleSpawn.html#a5b8d47e9bc2fabb268253a700c249527":[17,0,497,0],
 "structYVFlagPoleSpawn.html#aadd9629a5899fd9ee91eeb5f637e1a92":[17,0,497,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX81 =
 "struct____OSContEepromFormat.html#aa3586c15d3be829df4216e28cb93ba93":[17,0,8,1],
 "struct____OSContEepromFormat.html#ad44fa458932251560eb5948e3ebd304b":[17,0,8,3],
 "struct____OSContRamReadFormat.html":[17,0,9],
-"struct____OSContRamReadFormat.html#a71c84de36ae26fefc760e344f32a92d3":[17,0,9,6],
-"struct____OSContRamReadFormat.html#a75c88f8a5de1a5fc696b01053addee2a":[17,0,9,4],
-"struct____OSContRamReadFormat.html#a7875c481949e4a0bac7ec6fff86fb234":[17,0,9,5],
-"struct____OSContRamReadFormat.html#a9cd56423241cdaae65a465620b6f280a":[17,0,9,1],
-"struct____OSContRamReadFormat.html#ab3b9ed956c4f0ff82dd0670cee22b977":[17,0,9,2],
-"struct____OSContRamReadFormat.html#ac7055b12a1eea87e08f289451465976c":[17,0,9,3]
+"struct____OSContRamReadFormat.html#a71c84de36ae26fefc760e344f32a92d3":[17,0,9,6]
 };

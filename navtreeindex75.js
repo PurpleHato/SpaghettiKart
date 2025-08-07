@@ -1,5 +1,8 @@
 var NAVTREEINDEX75 =
 {
+"structIVector2D.html#a5ea55eef4bc4d4caaa49caa2688a2f2e":[17,0,144,1],
+"structIVector2D.html#a97f4f38da8eeadd24fca7f8fd096fd76":[17,0,144,0],
+"structInstrument.html":[17,0,137],
 "structInstrument.html#a0224b953ad9a42adb767cd749f41ea93":[17,0,137,14],
 "structInstrument.html#a09ad55f9cecc64d02df0818ca07268ba":[17,0,137,15],
 "structInstrument.html#a0aa5e84ee81283e9dfc8db0e7ca7d90c":[17,0,137,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX75 =
 "structNetworkClient.html#afe3fc936eb94b3051fbc304c06a57b47":[17,0,321,3],
 "structNote.html":[17,0,322],
 "structNote.html#a0e4515abdad43fb493d49f2faeaad16c":[17,0,322,14],
-"structNote.html#a1cbe020fa2840d75876de187e32714a2":[17,0,322,15],
-"structNote.html#a3eb33b9e8ffaa2c7a8993de8ecbedf0a":[17,0,322,5],
-"structNote.html#a6cbdb20c3942e004aefd26210196f138":[17,0,322,13],
-"structNote.html#a735fb38930defbb072e29145b7cddebb":[17,0,322,16]
+"structNote.html#a1cbe020fa2840d75876de187e32714a2":[17,0,322,15]
 };
