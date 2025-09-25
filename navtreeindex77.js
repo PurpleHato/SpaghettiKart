@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"structPalmTree.html#a93c02635c22b94d6574d65d9d7c8a63c":[17,0,361,11],
 "structPalmTree.html#aab98b54e5e080dd6ee5a38abf70fb878":[17,0,361,3],
 "structPalmTree.html#ab8dd8bc6495301f31df1f0da71bbfd1c":[17,0,361,2],
 "structPalmTree.html#ace572a25b85eac080632ea918c504a5e":[17,0,361,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "structReverbRingBufferItem.html#a1c4e2ff405bc383f8fb537edb3417c84":[17,0,383,4],
 "structReverbRingBufferItem.html#a5a7f1207d11bc90f650436b92a5e9ff4":[17,0,383,5],
 "structReverbRingBufferItem.html#a7468acef467cc33032ebc71a9213f201":[17,0,383,2],
-"structReverbRingBufferItem.html#ad0aaeb3ac2e8c6de0e2379fd4ffdc43e":[17,0,383,1],
-"structReverbRingBufferItem.html#adfe49013fb298b93af3d76538fa5b667":[17,0,383,6]
+"structReverbRingBufferItem.html#ad0aaeb3ac2e8c6de0e2379fd4ffdc43e":[17,0,383,1]
 };

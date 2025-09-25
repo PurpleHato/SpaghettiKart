@@ -1,5 +1,6 @@
 var NAVTREEINDEX74 =
 {
+"structCinematicCamera.html#adf4fbc44d7a1d92ef6c34a70f5130189":[17,0,87,8],
 "structCinematicCamera.html#af040f105d6492058ce51aad952a6849f":[17,0,87,6],
 "structCollision.html":[17,0,88],
 "structCollision.html#a0efc6bf3ed2c3d042e5b81dcd7679ed4":[17,0,88,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX74 =
 "structFreeCam.html#a46c0f71485a7ca70a36d55f4006c0b6a":[17,0,122,0],
 "structFreeCam.html#abf52276d5652fa16e8bfa7112ed8c288":[17,0,122,1],
 "structGfxPool.html":[17,0,132],
-"structGfxPool.html#a02b315fc7893c7d8693f8d675ade4799":[17,0,132,3],
-"structGfxPool.html#a383e380ba49ea2ba6c12d961dccf32f8":[17,0,132,5]
+"structGfxPool.html#a02b315fc7893c7d8693f8d675ade4799":[17,0,132,3]
 };

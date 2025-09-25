@@ -1,5 +1,6 @@
 var NAVTREEINDEX75 =
 {
+"structGfxPool.html#a383e380ba49ea2ba6c12d961dccf32f8":[17,0,132,5],
 "structGfxPool.html#a394e0a1d01dd843336dedfdd7b357a89":[17,0,132,4],
 "structGfxPool.html#a42d7257d731853b49605659bfcb607bf":[17,0,132,6],
 "structGfxPool.html#a6412eaab6e773364bbe4a114f7ce5381":[17,0,132,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX75 =
 "structMkAnimation.html#a9b401f96b0cda98dfa06402be626ac5e":[17,0,314,1],
 "structModelLoader_1_1CourseMap.html":[17,0,315,0],
 "structModelLoader_1_1LoadModelList.html":[17,0,315,1],
-"structModelLoader_1_1LoadModelList.html#a2c55c44b1a459330092cbdca53878a81":[17,0,315,1,3],
-"structModelLoader_1_1LoadModelList.html#a536a46e1097d1549dd987abad84ccacf":[17,0,315,1,5]
+"structModelLoader_1_1LoadModelList.html#a2c55c44b1a459330092cbdca53878a81":[17,0,315,1,3]
 };

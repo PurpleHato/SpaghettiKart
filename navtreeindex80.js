@@ -1,5 +1,6 @@
 var NAVTREEINDEX80 =
 {
+"structTrackSectionsO2R.html":[17,0,450],
 "structTrackSectionsO2R.html#a0deba07df881ceb9c2f11fe082af3bd9":[17,0,450,0],
 "structTrackSectionsO2R.html#a386f5f12c36e052bdd209f7ecf7e68ef":[17,0,450,3],
 "structTrackSectionsO2R.html#a7aa303cbc301417d8c93336ce13de273":[17,0,450,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX80 =
 "structUnkPlayerInner.html#a62b0fad46596d22a2232d524d23c9e9c":[17,0,467,0],
 "structUnkPlayerInner.html#a6974d5df4db5e26209e24cb761cd8e1b":[17,0,467,7],
 "structUnkPlayerInner.html#a85e38ce8eaca82e50f553226a3fcb5bc":[17,0,467,9],
-"structUnkPlayerInner.html#aa1be6c2b9fdeb8782170fdaed5c4e5ac":[17,0,467,2],
-"structUnkPlayerInner.html#ab08701f7620c12d402ae3913b4c063e7":[17,0,467,8]
+"structUnkPlayerInner.html#aa1be6c2b9fdeb8782170fdaed5c4e5ac":[17,0,467,2]
 };

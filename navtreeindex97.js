@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"unionMtx2.html#a5160e38fe5a7582069d438000769704b":[17,0,318,1],
 "unionMtx2.html#ad2bbe35e4606145f027ed1b53697a0d0":[17,0,318,2],
 "unionMtx2.html#addf34ff580685e645fb24671780fa102":[17,0,318,0],
 "unionReverbBits.html":[17,0,380],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "update__objects_8c.html#ad088fd4ce9beca25bd05ffb28cf99247":[18,0,3,69,175],
 "update__objects_8c.html#ad285aa918529bd748888d37ff511a5d1":[18,0,3,69,93],
 "update__objects_8c.html#ad2b9deb416ecea685a4dcddd5b5ccce4":[18,0,3,69,211],
-"update__objects_8c.html#ad44c53b9400e14a1222584ef55fa41db":[18,0,3,69,155],
-"update__objects_8c.html#ad8cfa13e8a52335aed87848456e4bab3":[18,0,3,69,47]
+"update__objects_8c.html#ad44c53b9400e14a1222584ef55fa41db":[18,0,3,69,155]
 };
