@@ -568,6 +568,7 @@ void render_cows(Camera* camera, Mat4 arg1) {
                         break;
                 }
             } else {
+                FrameInterpolation_RecordCloseChild();
                 return;
             }
 
@@ -691,6 +692,7 @@ void render_palm_trees(Camera* camera, Mat4 arg1) {
         if (test == 6) {
             mtxf_pos_rotation_xyz(sp90, spD4, sp88);
             if (!(gMatrixObjectCount < MTX_OBJECT_POOL_SIZE)) {
+                FrameInterpolation_RecordCloseChild();
                 break;
             }
             render_set_position(sp90, 0);
@@ -718,6 +720,7 @@ void render_palm_trees(Camera* camera, Mat4 arg1) {
                         break;
                 }
             } else {
+                FrameInterpolation_RecordCloseChild();
                 break;
             }
             var_s1++;
