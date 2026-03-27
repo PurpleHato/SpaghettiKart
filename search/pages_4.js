@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['decomp_0',['Installing mk64 Decomp',['../compiling.html',1,'basics']]]
+  ['export_0',['Export',['../export.html',1,'trackmenu']]]
 ];

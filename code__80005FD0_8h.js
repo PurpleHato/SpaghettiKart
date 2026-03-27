@@ -42,7 +42,13 @@ var code__80005FD0_8h =
       [ "CPU_STRATEGY_END_THROW_BANANA", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa9f37e6a398854acad09e9ca39ae78376", null ],
       [ "CPU_STRATEGY_ITEM_BLUE_SPINY_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaae4fbd4104e284c799d3b77276a47ed68", null ],
       [ "CPU_STRATEGY_THROW_BLUE_SPINY_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa760f161e5b62a4df2a97574c9235a66c", null ],
-      [ "CPU_STRATEGY_HOLD_BLUE_SPINY_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa0fd9bf59b4b52e5fad86c6c4adb92c83", null ]
+      [ "CPU_STRATEGY_HOLD_BLUE_SPINY_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa0fd9bf59b4b52e5fad86c6c4adb92c83", null ],
+      [ "CPU_STRATEGY_ITEM_TRIPLE_GREEN_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa64dcdd03198fb04f8409b593aca871c4", null ],
+      [ "CPU_STRATEGY_ORBIT_TRIPLE_GREEN_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa7d3abaa496ffba00108fcd9da554d2ec", null ],
+      [ "CPU_STRATEGY_THROW_TRIPLE_GREEN_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaa52dfd05e2d62d5b2dc2f7ff76e2a8bd3", null ],
+      [ "CPU_STRATEGY_ITEM_TRIPLE_RED_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaaee031a3d103ee1e9cda91595a5d86dc8", null ],
+      [ "CPU_STRATEGY_ORBIT_TRIPLE_RED_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaabf52b8912826611faec2dcfce15ff18a", null ],
+      [ "CPU_STRATEGY_THROW_TRIPLE_RED_SHELL", "code__80005FD0_8h.html#a6a3987fc720b4d6bdb1566d092553bcaad69bad974b242e271ce23fbd7036caad", null ]
     ] ],
     [ "add_actor_in_unexpired_actor_list", "code__80005FD0_8h.html#a602b52c585bfaab842bf45d9fe1b4a3a", null ],
     [ "add_blue_shell_in_unexpired_actor_list", "code__80005FD0_8h.html#a86ff3c8d1cca531426694c00b7305967", null ],
@@ -174,7 +180,6 @@ var code__80005FD0_8h =
     [ "player_track_position_factor_vehicle", "code__80005FD0_8h.html#a3e2f7798026ca24c646aa154c385b79f", null ],
     [ "process_path_data", "code__80005FD0_8h.html#a5105f6229ac7e515c22f20f5d6d622c6", null ],
     [ "regulate_cpu_speed", "code__80005FD0_8h.html#abbc9fed009c6ff998f8abcff7e66c0eb", null ],
-    [ "render_bomb_karts_wrap", "code__80005FD0_8h.html#a29ef75497132473df839793bee9d5c77", null ],
     [ "reset_cpu_behaviour", "code__80005FD0_8h.html#a170b40eb753c743c926ab9ab4434f528", null ],
     [ "reset_cpu_behaviour_none", "code__80005FD0_8h.html#af0f75cc5bf2a6b39d7585017667a3a14", null ],
     [ "set_bomb_kart_spawn_positions", "code__80005FD0_8h.html#ada59072ef0e7fec8eb6eeaabdc4ebe03", null ],

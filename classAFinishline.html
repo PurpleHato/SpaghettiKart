@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.13.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Mario Kart 64: AFinishline Class Reference</title>
+<title>SpaghettiKart: AFinishline Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -36,7 +36,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Mario Kart 64
+   <div id="projectname">SpaghettiKart
    </div>
   </td>
  </tr>
@@ -130,8 +130,8 @@ Collaboration diagram for AFinishline:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a217d1abec019d9ff56b0e387fcd83f03" id="r_a217d1abec019d9ff56b0e387fcd83f03"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a217d1abec019d9ff56b0e387fcd83f03">AFinishline</a> (const <a class="el" href="structSpawnParams.html">SpawnParams</a> &amp;params)</td></tr>
 <tr class="separator:a217d1abec019d9ff56b0e387fcd83f03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0cf1b05f192c0a1660f3c8997c59627f" id="r_a0cf1b05f192c0a1660f3c8997c59627f"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a0cf1b05f192c0a1660f3c8997c59627f">~AFinishline</a> () override=default</td></tr>
-<tr class="separator:a0cf1b05f192c0a1660f3c8997c59627f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a194a436bcff14a6440c6ea27671f877f" id="r_a194a436bcff14a6440c6ea27671f877f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a194a436bcff14a6440c6ea27671f877f">~AFinishline</a> ()</td></tr>
+<tr class="separator:a194a436bcff14a6440c6ea27671f877f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a793725aefa6f9bb8c66b7ad7c7f41e4f" id="r_a793725aefa6f9bb8c66b7ad7c7f41e4f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a793725aefa6f9bb8c66b7ad7c7f41e4f">Tick</a> () override</td></tr>
 <tr class="separator:a793725aefa6f9bb8c66b7ad7c7f41e4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5c78e1d21d510483940eaab35807bf52" id="r_a5c78e1d21d510483940eaab35807bf52"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5c78e1d21d510483940eaab35807bf52">Draw</a> (<a class="el" href="structCamera.html">Camera</a> *) override</td></tr>
@@ -181,6 +181,10 @@ Static Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Data Fields</h2></td></tr>
+<tr class="memitem:a900f3838948a444add4de92b53da76a2" id="r_a900f3838948a444add4de92b53da76a2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a900f3838948a444add4de92b53da76a2">bIsFinishline</a> = false</td></tr>
+<tr class="separator:a900f3838948a444add4de92b53da76a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fb753f7bdd33c8424c6ea9f84a46954" id="r_a9fb753f7bdd33c8424c6ea9f84a46954"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9fb753f7bdd33c8424c6ea9f84a46954">_idx</a></td></tr>
+<tr class="separator:a9fb753f7bdd33c8424c6ea9f84a46954"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9484b6079ddd78d1c7f78c1e523a4f67" id="r_a9484b6079ddd78d1c7f78c1e523a4f67"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9484b6079ddd78d1c7f78c1e523a4f67">PickedUp</a> = false</td></tr>
 <tr class="separator:a9484b6079ddd78d1c7f78c1e523a4f67"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2bc865315f3f5d34bbe98392c820233e" id="r_a2bc865315f3f5d34bbe98392c820233e"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2bc865315f3f5d34bbe98392c820233e">Timer</a> = 0</td></tr>
@@ -272,13 +276,13 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a217d1abec019d9ff56b0e387fcd83f03_icgraph.svg" width="607" height="86"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a217d1abec019d9ff56b0e387fcd83f03_icgraph.svg" width="375" height="86"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
 </div>
-<a id="a0cf1b05f192c0a1660f3c8997c59627f" name="a0cf1b05f192c0a1660f3c8997c59627f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0cf1b05f192c0a1660f3c8997c59627f">&#9670;&#160;</a></span>~AFinishline()</h2>
+<a id="a194a436bcff14a6440c6ea27671f877f" name="a194a436bcff14a6440c6ea27671f877f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a194a436bcff14a6440c6ea27671f877f">&#9670;&#160;</a></span>~AFinishline()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -287,7 +291,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual AFinishline::~AFinishline </td>
+          <td class="memname">AFinishline::~AFinishline </td>
           <td>(</td>
           <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
           <td></td>
@@ -295,7 +299,7 @@ Here is the caller graph for this function:</div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel override">override</span><span class="mlabel virtual">virtual</span><span class="mlabel default">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel inline">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -330,7 +334,7 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_aef603ddedca5f9e92cf8cd2cfb898996_cgraph.svg" width="444" height="60"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_aef603ddedca5f9e92cf8cd2cfb898996_cgraph.svg" width="479" height="110"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -394,11 +398,11 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="classAActor.html#a803007dd95a33ecdb49e55a6947ce23a">AActor</a>.</p>
+<p>Reimplemented from <a class="el" href="classAActor.html#a85d714b98fe1a42151871f865c0e37f7">AActor</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classAFinishline_a5c78e1d21d510483940eaab35807bf52_cgraph.svg" width="100%" height="564"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classAFinishline_a5c78e1d21d510483940eaab35807bf52_cgraph.svg" width="100%" height="558"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -455,12 +459,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a558adad18df5a2fb4fe346da97a75617_cgraph.svg" width="539" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a558adad18df5a2fb4fe346da97a75617_icgraph.svg" width="387" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a558adad18df5a2fb4fe346da97a75617_cgraph.svg" width="550" height="135"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -494,7 +493,7 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a21c9d174a404bd4ddaf6af2bd364a37f_cgraph.svg" width="539" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classAFinishline_a21c9d174a404bd4ddaf6af2bd364a37f_cgraph.svg" width="550" height="135"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -549,6 +548,20 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
+<a id="a9fb753f7bdd33c8424c6ea9f84a46954" name="a9fb753f7bdd33c8424c6ea9f84a46954"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9fb753f7bdd33c8424c6ea9f84a46954">&#9670;&#160;</a></span>_idx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t AFinishline::_idx</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a6d6cf419ae9c951036925d387c6b4ec0" name="a6d6cf419ae9c951036925d387c6b4ec0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6d6cf419ae9c951036925d387c6b4ec0">&#9670;&#160;</a></span>_player</h2>
 
@@ -557,6 +570,20 @@ Here is the call graph for this function:</div>
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="structPlayer.html">Player</a>* AFinishline::_player = <a class="el" href="miniaudio_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a900f3838948a444add4de92b53da76a2" name="a900f3838948a444add4de92b53da76a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a900f3838948a444add4de92b53da76a2">&#9670;&#160;</a></span>bIsFinishline</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AFinishline::bIsFinishline = false</td>
         </tr>
       </table>
 </div><div class="memdoc">

@@ -23,6 +23,7 @@ var actor__types_8h =
     [ "FAKE_ITEM_BOX_ON_GROUND", "actor__types_8h.html#affb5ffde510634c5c1e09a5b934d29c3", null ],
     [ "GET_ACTOR", "actor__types_8h.html#aed038e4e6a4801ef264d0f74731ebdf8", null ],
     [ "HELD_FAKE_ITEM_BOX", "actor__types_8h.html#ae07d85ac7035dc21319b791b430d4246", null ],
+    [ "THROW_SHELL_BACKWARDS", "actor__types_8h.html#a189689ccc72ce97ca6c628e14361b033", null ],
     [ "ActorType", "actor__types_8h.html#a06ad3f803827afd107e7682c8c22d990", [
       [ "ACTOR_UNKNOWN_0x01", "actor__types_8h.html#a06ad3f803827afd107e7682c8c22d990a6b485834b31c0ee8417d4ca27f20c38e", null ],
       [ "ACTOR_TREE_MARIO_RACEWAY", "actor__types_8h.html#a06ad3f803827afd107e7682c8c22d990afa461a44c857f446e85c5ff28120c94b", null ],
@@ -90,7 +91,5 @@ var actor__types_8h =
       [ "BLUE_SHELL_LOCK_ON", "actor__types_8h.html#ac01c8e97d91d8f2968ca1f8d4eb0495bacbbf8ec958ded92542c807a249ab5663", null ],
       [ "BLUE_SHELL_TARGET_ELIMINATED", "actor__types_8h.html#ac01c8e97d91d8f2968ca1f8d4eb0495ba5bedeedba66ded3f9a8f54f73bc2e6fa", null ]
     ] ],
-    [ "CM_GetActor", "actor__types_8h.html#a42d4e151ced45749de343d857cfb1f79", null ],
-    [ "CM_GetActorSize", "actor__types_8h.html#ada4fa2091de8a4a4b09435f95795fc40", null ],
     [ "gActorList", "actor__types_8h.html#a1f5d4f72f8fd53ac6a42c0bf2b2d8a61", null ]
 ];

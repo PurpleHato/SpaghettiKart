@@ -122,7 +122,7 @@ var sectionId = 'dynsection-43';
 <!-- Node50 -->
 <g id="Node000050" class="node">
 <title>Node50</title>
-<g id="a_Node000050"><a xlink:href="palm__tree_2render_8inc_8c.html#a9acb7afd543abd1f4794c8c2d16f13a4" target="_top" xlink:title="Renders the palm tree actor. Actor used in Koopa Troopa Beach.">
+<g id="a_Node000050"><a xlink:href="palm__tree_2render_8inc_8c.html#ae35957e867320b51295c1c6c9066bd0b" target="_top" xlink:title="Renders the palm tree actor. Actor used in Koopa Troopa Beach.">
 <polygon fill="white" stroke="#666666" points="2389,-506.95 2256,-506.95 2256,-487.95 2389,-487.95 2389,-506.95"/>
 <text text-anchor="middle" x="2322.5" y="-494.95" font-family="Helvetica,sans-Serif" font-size="10.00">render_actor_palm_tree</text>
 </a>
@@ -330,7 +330,7 @@ var sectionId = 'dynsection-43';
 <!-- Node61 -->
 <g id="Node000061" class="node">
 <title>Node61</title>
-<g id="a_Node000061"><a xlink:href="yoshi__egg_2render_8inc_8c.html#a4d082cb0256600e693927bccddbee605" target="_top" xlink:title="Renders the Yoshi egg actor. Actor used in Yoshi Valley.">
+<g id="a_Node000061"><a xlink:href="yoshi__egg_2render_8inc_8c.html#acd8ade327cc04f2d1dd0de7ff85d6d8d" target="_top" xlink:title="Renders the Yoshi egg actor. Actor used in Yoshi Valley.">
 <polygon fill="white" stroke="#666666" points="2567,-38.95 2434,-38.95 2434,-19.95 2567,-19.95 2567,-38.95"/>
 <text text-anchor="middle" x="2500.5" y="-26.95" font-family="Helvetica,sans-Serif" font-size="10.00">render_actor_yoshi_egg</text>
 </a>
@@ -421,7 +421,7 @@ var sectionId = 'dynsection-43';
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="actors_8c.html#ab38aac73e6ef03aa38f4474b612234b0" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="actors_8c.html#ab84146b9770911b6ca5818304890d410" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="2031,-355.95 1910,-355.95 1910,-336.95 2031,-336.95 2031,-355.95"/>
 <text text-anchor="middle" x="1970.5" y="-343.95" font-family="Helvetica,sans-Serif" font-size="10.00">render_course_actors</text>
 </a>
@@ -439,7 +439,7 @@ var sectionId = 'dynsection-43';
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="code__80280000_8c.html#aa9c130485d39c4a7276605b30db5150e" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="code__80280000_8c.html#ae610920735bc9dad9f2dce878c5a6b32" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="1874,-374.95 1783,-374.95 1783,-355.95 1874,-355.95 1874,-374.95"/>
 <text text-anchor="middle" x="1828.5" y="-362.95" font-family="Helvetica,sans-Serif" font-size="10.00">func_80280038</text>
 </a>
@@ -457,7 +457,7 @@ var sectionId = 'dynsection-43';
 <!-- Node36 -->
 <g id="Node000036" class="node">
 <title>Node36</title>
-<g id="a_Node000036"><a xlink:href="skybox__and__splitscreen_8c.html#ae4f7ad839fe3a60b3b6fde3d07ae8acd" target="_top" xlink:title=" ">
+<g id="a_Node000036"><a xlink:href="skybox__and__splitscreen_8c.html#ab307aacf996be936646a0697377997db" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="1874,-337.95 1783,-337.95 1783,-318.95 1874,-318.95 1874,-337.95"/>
 <text text-anchor="middle" x="1828.5" y="-325.95" font-family="Helvetica,sans-Serif" font-size="10.00">render_screens</text>
 </a>
